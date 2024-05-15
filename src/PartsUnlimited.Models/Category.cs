@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     public class Category
-    {
+    {//comentario prueba JC 20240515_1155
         public int CategoryId { get; set; }
 
         [Required]
