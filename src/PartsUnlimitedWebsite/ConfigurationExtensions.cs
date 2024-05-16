@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
+//prueba de conflicto desde Remote
 using System;
 using System.IO;
 using System.Linq;
